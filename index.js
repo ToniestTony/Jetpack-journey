@@ -29,6 +29,7 @@ function Player(id){
 	this.dir=1;
 	this.fuel=0;
 	this.time=0;
+	this.done=false;
 	this.state="";
 	this.playing=false;
 	this.lobby=undefined;
