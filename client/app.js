@@ -2237,7 +2237,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(600,-1400,10,10,[0,255,0],0,1,'undefined',true,'Fuelgame','["Fuel"]',false,-1,'Obj111');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(610,-1400,10,10,[0,255,0],0,1,'undefined',true,'Fuelgame','["Fuel"]',false,-1,'Obj111');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -2245,7 +2245,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(300,-1190,10,10,[0,255,0],0,1,'undefined',true,'Fuelgame','["Fuel"]',false,-1,'Obj113');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(310,-1190,10,10,[0,255,0],0,1,'undefined',true,'Fuelgame','["Fuel"]',false,-1,'Obj113');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -2285,7 +2285,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(400,-1260,10,10,[0,255,0],0,1,'undefined',true,'Fuelgame','["Fuel"]',false,-1,'Obj115');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(410,-1260,10,10,[0,255,0],0,1,'undefined',true,'Fuelgame','["Fuel"]',false,-1,'Obj115');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -2477,7 +2477,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(240,-1070,40,20,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj185');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(240,-1070,60,20,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj185');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -2637,6 +2637,14 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(700,-1320,20,40,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj409');/*You can put functions here*/
+
+;
+obj.setup=function(){	/*Setup runs once when the game starts*/
+	
+};obj.update=function(){	/*Update runs at the fps specified*/
+	
+	jte.draw(this);
 };obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1850,-4290,10,50,[127,127,127],0,1,'undefined',true,'Fuelgame','[""]',false,-1,'Obj125');/*You can put functions here*/
 
 ;
@@ -2749,7 +2757,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(500,-1330,10,10,[0,255,0],0,1,'undefined',true,'Fuelgame','["Fuel"]',false,-1,'Obj139');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(510,-1330,10,10,[0,255,0],0,1,'undefined',true,'Fuelgame','["Fuel"]',false,-1,'Obj139');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -4043,7 +4051,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*Attributes and methods go here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(720,0,80,30,[0,0,0],0,1,'{"text":"v0.9","size":23,"font":"Consolas","align":"right"}',true,'Start','[""]',false,-1,'Obj16');/*Attributes and methods go here*/
+};obj.JTEcode=["/*Attributes and methods go here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(720,0,80,30,[0,0,0],0,1,'{"text":"v0.91","size":23,"font":"Consolas","align":"right"}',true,'Start','[""]',false,-1,'Obj16');/*Attributes and methods go here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
