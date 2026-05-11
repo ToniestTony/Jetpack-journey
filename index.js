@@ -34,6 +34,7 @@ function Player(id){
 	this.playing=false;
 	this.lobby=undefined;
 	this.host=undefined;
+	this.fuels=[];
 }
 
 io.on('connection', (socket) => {
@@ -58,6 +59,10 @@ io.on('connection', (socket) => {
 	
 	socket.on("chat message",function(msg,color){
 		io.emit("chat message",msg,color)
+    });
+	
+	socket.on("gotFuel",function(id,obj){
+		socket.to(id).emit("gotFuel",obj);
     });
 	
 	/*
