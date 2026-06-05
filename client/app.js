@@ -108,7 +108,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(2000,-5000,40,5600,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj12');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(2000,-5100,40,5700,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj12');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -172,6 +172,14 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(80,-4070,10,10,[0,255,0],0,1,'undefined',true,'Fuelgame','["Fuel"]',false,-1,'Obj437');/*You can put functions here*/
+
+;
+obj.setup=function(){	/*Setup runs once when the game starts*/
+	
+};obj.update=function(){	/*Update runs at the fps specified*/
+	
+	jte.draw(this);
 };obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(0,600,2000,30,[255,0,255],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'BorderX2');/*You can put functions here*/
 
 ;
@@ -196,7 +204,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(350,520,60,60,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj12');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(350,520,40,60,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj12');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -204,7 +212,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(410,500,20,80,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj166');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(10,480,150,2,[0,0,0],0,1,'undefined',true,'Fuelgame','[""]',false,-1,'Obj438');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -212,7 +220,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(10,480,170,2,[0,0,0],0,1,'undefined',true,'Fuelgame','[""]',false,-1,'Obj162');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(80,460,2,45,[0,0,0],0,1,'undefined',true,'Fuelgame','[""]',false,-1,'Obj161');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -220,23 +228,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(84,460,2,45,[0,0,0],0,1,'undefined',true,'Fuelgame','[""]',false,-1,'Obj161');/*You can put functions here*/
-
-;
-obj.setup=function(){	/*Setup runs once when the game starts*/
-	
-};obj.update=function(){	/*Update runs at the fps specified*/
-	
-	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(180,460,2,45,[0,0,0],0,1,'undefined',true,'Fuelgame','[""]',false,-1,'Obj408');/*You can put functions here*/
-
-;
-obj.setup=function(){	/*Setup runs once when the game starts*/
-	
-};obj.update=function(){	/*Update runs at the fps specified*/
-	
-	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(10,460,70,20,[0,0,0],0,1,'{"text":"Z Jump","size":16,"font":"Consolas"}',true,'Fuelgame','[""]',false,-1,'Obj160');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(10,460,70,20,[0,0,0],0,1,'{"text":"Z Jump","size":16,"font":"Consolas","align":"center"}',true,'Fuelgame','[""]',false,-1,'Obj160');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -262,7 +254,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(90,490,80,20,[0,0,0],0,1,'{"text":"-> Right","size":16,"align":"center","font":"Consolas"}',true,'Fuelgame','[""]',false,-1,'Obj169');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(80,490,80,20,[0,0,0],0,1,'{"text":"-> Right","size":16,"align":"center","font":"Consolas"}',true,'Fuelgame','[""]',false,-1,'Obj169');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -270,7 +262,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(90,460,80,20,[0,0,0],0,1,'{"text":"X Fly","size":16,"align":"center","font":"Consolas"}',true,'Fuelgame','[""]',false,-1,'Obj163');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(80,460,80,20,[0,0,0],0,1,'{"text":"X Fly","size":16,"align":"center","font":"Consolas"}',true,'Fuelgame','[""]',false,-1,'Obj163');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -278,7 +270,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(190,470,160,30,[0,0,0],0,1,'{"text":"C Drop fuel for other players !","size":16,"align":"center","font":"Consolas"}',true,'Fuelgame','[""]',false,-1,'Obj407');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(820,260,160,30,[0,0,0],0,1,'{"text":"C to drop fuel for other players !","size":16,"align":"center","font":"Consolas"}',true,'Fuelgame','[""]',false,-1,'Obj407');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -286,7 +278,23 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(10,430,160,20,[0,0,0],0,1,'{"text":"Controls:","size":16,"align":"center","font":"Consolas"}',true,'Fuelgame','[""]',false,-1,'Obj158');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1130,310,150,20,[0,0,0],0,1,'{"text":"M to mute sounds","size":16,"align":"center","font":"Consolas"}',true,'Fuelgame','[""]',false,-1,'Obj440');/*You can put functions here*/
+
+;
+obj.setup=function(){	/*Setup runs once when the game starts*/
+	
+};obj.update=function(){	/*Update runs at the fps specified*/
+	
+	jte.draw(this);
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1800,-4250,200,50,[0,0,0],0,1,'{"text":"Congratulations, you made it to the top !","size":16,"align":"center","font":"Consolas"}',true,'Fuelgame','[""]',false,-1,'Obj446');/*You can put functions here*/
+
+;
+obj.setup=function(){	/*Setup runs once when the game starts*/
+	
+};obj.update=function(){	/*Update runs at the fps specified*/
+	
+	jte.draw(this);
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(10,430,150,20,[0,0,0],0,1,'{"text":"Controls:","size":16,"align":"center","font":"Consolas"}',true,'Fuelgame','[""]',false,-1,'Obj158');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -302,7 +310,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(430,540,170,40,[0,255,0],0,1,'undefined',true,'Fuelgame','["Wall","Refill"]',false,-1,'Obj153');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(390,540,210,40,[0,255,0],0,1,'undefined',true,'Fuelgame','["Wall","Refill"]',false,-1,'Obj153');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -318,7 +326,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(460,520,60,20,[0,0,0],0,1,'{"text":"Refill","size":16,"align":"center","font":"Consolas"}',true,'Fuelgame','[""]',false,-1,'Obj165');/*Attributes and methods go here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(390,520,170,20,[0,0,0],0,1,'{"text":"Green refills fuel","size":16,"align":"center","font":"Consolas"}',true,'Fuelgame','[""]',false,-1,'Obj165');/*Attributes and methods go here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -494,7 +502,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1000,300,40,80,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj22');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1000,260,40,120,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj22');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -518,7 +526,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(800,-20,240,320,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj26');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(800,-20,240,280,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj26');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -1246,7 +1254,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(110,-3510,50,20,[0,255,0],0,1,'undefined',true,'Fuelgame','["Wall","Refill"]',false,-1,'Obj339');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(90,-3510,50,20,[0,255,0],0,1,'undefined',true,'Fuelgame','["Wall","Refill"]',false,-1,'Obj339');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -1311,6 +1319,30 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 	
 	jte.draw(this);
 };obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1260,-4050,40,20,[0,255,0],0,1,'undefined',true,'Fuelgame','["Wall","Refill"]',false,-1,'Obj370');/*You can put functions here*/
+
+;
+obj.setup=function(){	/*Setup runs once when the game starts*/
+	
+};obj.update=function(){	/*Update runs at the fps specified*/
+	
+	jte.draw(this);
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1800,-4140,40,20,[0,255,0],0,1,'undefined',true,'Fuelgame','["Wall","Refill"]',false,-1,'Obj444');/*You can put functions here*/
+
+;
+obj.setup=function(){	/*Setup runs once when the game starts*/
+	
+};obj.update=function(){	/*Update runs at the fps specified*/
+	
+	jte.draw(this);
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1960,-4140,40,20,[0,255,0],0,1,'undefined',true,'Fuelgame','["Wall","Refill"]',false,-1,'Obj445');/*You can put functions here*/
+
+;
+obj.setup=function(){	/*Setup runs once when the game starts*/
+	
+};obj.update=function(){	/*Update runs at the fps specified*/
+	
+	jte.draw(this);
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1800,-4430,20,20,[0,255,0],0,1,'undefined',true,'Fuelgame','["Wall","Refill"]',false,-1,'Obj447');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -1574,7 +1606,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1780,-4370,20,250,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj380');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1780,-4430,20,310,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj380');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -1670,6 +1702,22 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1320,-3850,10,10,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj442');/*You can put functions here*/
+
+;
+obj.setup=function(){	/*Setup runs once when the game starts*/
+	
+};obj.update=function(){	/*Update runs at the fps specified*/
+	
+	jte.draw(this);
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1280,-3910,100,20,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj441');/*You can put functions here*/
+
+;
+obj.setup=function(){	/*Setup runs once when the game starts*/
+	
+};obj.update=function(){	/*Update runs at the fps specified*/
+	
+	jte.draw(this);
 };obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1420,-3850,10,10,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj396');/*You can put functions here*/
 
 ;
@@ -1718,7 +1766,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1560,-4310,10,10,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj382');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1560,-4300,10,10,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj382');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -1726,7 +1774,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1620,-4350,20,20,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj397');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1620,-4330,20,20,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj397');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -1758,7 +1806,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1380,-4770,20,860,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj377');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1380,-4350,20,440,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj377');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -1910,15 +1958,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(160,-3510,20,20,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj337');/*You can put functions here*/
-
-;
-obj.setup=function(){	/*Setup runs once when the game starts*/
-	
-};obj.update=function(){	/*Update runs at the fps specified*/
-	
-	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(90,-3510,20,20,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj340');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(140,-3510,40,20,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj337');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -2327,6 +2367,22 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 	
 	jte.draw(this);
 };obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(940,-3630,10,10,[0,255,0],0,1,'undefined',true,'Fuelgame','["Fuel"]',false,-1,'Obj321');/*You can put functions here*/
+
+;
+obj.setup=function(){	/*Setup runs once when the game starts*/
+	
+};obj.update=function(){	/*Update runs at the fps specified*/
+	
+	jte.draw(this);
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1350,-4010,10,10,[0,255,0],0,1,'undefined',true,'Fuelgame','["Fuel"]',false,-1,'Obj439');/*You can put functions here*/
+
+;
+obj.setup=function(){	/*Setup runs once when the game starts*/
+	
+};obj.update=function(){	/*Update runs at the fps specified*/
+	
+	jte.draw(this);
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1350,-3960,10,10,[0,255,0],0,1,'undefined',true,'Fuelgame','["Fuel"]',false,-1,'Obj443');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -2750,7 +2806,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1850,-4140,130,20,[0,0,0],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'End');/*You can put functions here*/
+};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1840,-4160,120,40,[0,0,0],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'End');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -2775,118 +2831,6 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 	
 	jte.draw(this);
 };obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(700,-1320,20,40,[127,127,127],0,1,'undefined',true,'Fuelgame','["Wall"]',false,-1,'Obj409');/*You can put functions here*/
-
-;
-obj.setup=function(){	/*Setup runs once when the game starts*/
-	
-};obj.update=function(){	/*Update runs at the fps specified*/
-	
-	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1850,-4290,10,50,[127,127,127],0,1,'undefined',true,'Fuelgame','[""]',false,-1,'Obj125');/*You can put functions here*/
-
-;
-obj.setup=function(){	/*Setup runs once when the game starts*/
-	
-};obj.update=function(){	/*Update runs at the fps specified*/
-	
-	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1860,-4270,10,10,[127,127,127],0,1,'undefined',true,'Fuelgame','[""]',false,-1,'Obj126');/*You can put functions here*/
-
-;
-obj.setup=function(){	/*Setup runs once when the game starts*/
-	
-};obj.update=function(){	/*Update runs at the fps specified*/
-	
-	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1860,-4290,20,10,[127,127,127],0,1,'undefined',true,'Fuelgame','[""]',false,-1,'Obj127');/*You can put functions here*/
-
-;
-obj.setup=function(){	/*Setup runs once when the game starts*/
-	
-};obj.update=function(){	/*Update runs at the fps specified*/
-	
-	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1860,-4250,20,10,[127,127,127],0,1,'undefined',true,'Fuelgame','[""]',false,-1,'Obj128');/*You can put functions here*/
-
-;
-obj.setup=function(){	/*Setup runs once when the game starts*/
-	
-};obj.update=function(){	/*Update runs at the fps specified*/
-	
-	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1890,-4290,10,50,[127,127,127],0,1,'undefined',true,'Fuelgame','[""]',false,-1,'Obj129');/*You can put functions here*/
-
-;
-obj.setup=function(){	/*Setup runs once when the game starts*/
-	
-};obj.update=function(){	/*Update runs at the fps specified*/
-	
-	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1950,-4290,10,50,[127,127,127],0,1,'undefined',true,'Fuelgame','[""]',false,-1,'Obj130');/*You can put functions here*/
-
-;
-obj.setup=function(){	/*Setup runs once when the game starts*/
-	
-};obj.update=function(){	/*Update runs at the fps specified*/
-	
-	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1970,-4280,10,30,[127,127,127],0,1,'undefined',true,'Fuelgame','[""]',false,-1,'Obj131');/*You can put functions here*/
-
-;
-obj.setup=function(){	/*Setup runs once when the game starts*/
-	
-};obj.update=function(){	/*Update runs at the fps specified*/
-	
-	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1920,-4260,10,20,[127,127,127],0,1,'undefined',true,'Fuelgame','[""]',false,-1,'Obj132');/*You can put functions here*/
-
-;
-obj.setup=function(){	/*Setup runs once when the game starts*/
-	
-};obj.update=function(){	/*Update runs at the fps specified*/
-	
-	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1930,-4290,10,50,[127,127,127],0,1,'undefined',true,'Fuelgame','[""]',false,-1,'Obj133');/*You can put functions here*/
-
-;
-obj.setup=function(){	/*Setup runs once when the game starts*/
-	
-};obj.update=function(){	/*Update runs at the fps specified*/
-	
-	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1910,-4280,10,20,[127,127,127],0,1,'undefined',true,'Fuelgame','[""]',false,-1,'Obj134');/*You can put functions here*/
-
-;
-obj.setup=function(){	/*Setup runs once when the game starts*/
-	
-};obj.update=function(){	/*Update runs at the fps specified*/
-	
-	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1900,-4290,10,10,[127,127,127],0,1,'undefined',true,'Fuelgame','[""]',false,-1,'Obj135');/*You can put functions here*/
-
-;
-obj.setup=function(){	/*Setup runs once when the game starts*/
-	
-};obj.update=function(){	/*Update runs at the fps specified*/
-	
-	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1960,-4290,10,10,[127,127,127],0,1,'undefined',true,'Fuelgame','[""]',false,-1,'Obj136');/*You can put functions here*/
-
-;
-obj.setup=function(){	/*Setup runs once when the game starts*/
-	
-};obj.update=function(){	/*Update runs at the fps specified*/
-	
-	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1960,-4250,10,10,[127,127,127],0,1,'undefined',true,'Fuelgame','[""]',false,-1,'Obj137');/*You can put functions here*/
-
-;
-obj.setup=function(){	/*Setup runs once when the game starts*/
-	
-};obj.update=function(){	/*Update runs at the fps specified*/
-	
-	jte.draw(this);
-};obj.JTEcode=["/*You can put functions here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(1850,-4230,130,10,[127,127,127],0,1,'undefined',true,'Fuelgame','[""]',false,-1,'Obj138');/*You can put functions here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -3502,6 +3446,8 @@ obj.createFuel=function(x,y,dir){
   part.cRate=[-4,rC/3,rC/2];
   return part;
 }
+
+obj.mute=false;
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
   jt.volume(0.2)
@@ -3525,6 +3471,11 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
   var upCheck=jt.kCheck("x") || jt.pCheck("x");
   
   var drop=jt.kCheck("c") || jt.pCheck("b");
+  
+  if(jt.kPress("m")){
+   	this.mute=!this.mute;
+    jt.mute(this.mute);
+  }
   
   if(jt.pConnected(0)){
     var pStick=jt.pAxes(0);
@@ -3983,7 +3934,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
   
   jt.drawPart();
   
-};obj.JTEcode=["/*You can put functions here*/","obj.grav=0.4;","obj.speed=0.5;","obj.speedMax=2;","obj.jump=6;","","obj.sprite=\"indiana\";","","obj.vX=0;","obj.vY=0;","obj.maxVY=30;","obj.maxGravVY=8;","obj.frictionX=0.25;","obj.frictionXAir=0.2;","obj.bumperX=10;","obj.bumperY=10;","","obj.addX=0;","obj.addY=0;","","obj.dir=1;","","obj.fallingBuffer=0;","obj.maxJumpBuffer=5;","","obj.fuel=0;","obj.fuelMax=100;","obj.fuelRate=0;","obj.fuelUse=0.9;","obj.fuelForce=1;","obj.fuelRow=0;","obj.fuelRowMax=30;","obj.fuelYMax=2;","","obj.camW=400;","obj.camH=300;","obj.camSmooth=0.25;","","obj.moved=false;","","obj.createFuel=function(x,y,dir){","  var part={};","  part.x=x+jt.random(this.w/4,this.w*3/4)-dir*this.w/4;","  part.y=y+this.h-4;","  part.w=5;","  part.h=5;","  part.wRate=-0.2;","  part.hRate=-0.2;      ","  part.vX=jt.random(-0.4,0.4,0.1);","  part.vY=jt.random(0.5,2,0.1)","  var rC=jt.random(0,155,1);","  part.c=[jt.random(200,255,1),rC,rC]","  part.cRate=[-4,rC/3,rC/2];","  return part;","}"];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","  jt.volume(0.2)","  //jt.stopPlay(\"descent\");","  ","\tthis.fuel=this.fuelMax;","  ","  jt.cam().w=this.camW;","  jt.cam().h=this.camH;","  ","  this.maxGravVY=this.jump+this.fuelForce;","  ","  jt.debug(false);"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t//key check","  jt.alpha(1);","  var state=\"Walk\";","  var left=jt.kCheck(\"left\");","  var right=jt.kCheck(\"right\");  ","  var up=jt.kPress(\"z\") || jt.pPress(\"a\");","  var upCheck=jt.kCheck(\"x\") || jt.pCheck(\"x\");","  ","  var drop=jt.kCheck(\"c\") || jt.pCheck(\"b\");","  ","  if(jt.pConnected(0)){","    var pStick=jt.pAxes(0);","","    if(pStick[0]<=-0.75){left=true;}","    if(pStick[0]>=0.75){right=true;}","  }","  ","  //if(jt.kPress(\"r\")){this.respawn()};","  ","  //ground check","  var walls=jte.getObjects([\"Wall\"],jte.getView());","  var checks=jte.getObjects([\"Check\"],jte.getView());  ","  var bumpers=jte.getObjects([\"Bumper\"],jte.getView());","  var kills=jte.getObjects([\"Kill\"],jte.getView());  ","  ","  ","  //checkpoints","  if(jt.debug()){","    for(var i=0;i<20;i++){","      var plus=false;","      if(i>=10){","         plus=true;","      }","      var pressed=false;","      if(plus){","        if(jt.kPress((i-10)) && jt.kCheck(\"shift\")){","          pressed=true; ","        }","      }else{","        if(jt.kPress(i) && !jt.kCheck(\"shift\")){","          pressed=true; ","        }","      }","      if(pressed){","        if(i<checks.length){","          this.x=checks[i].x;","          this.y=checks[i].y;        ","          this.vX=0;","          this.vY=0;     ","          var endCamX=this.x+(this.w/2)-this.camW/2;","          var endCamY=this.y+(this.h/2)-this.camH/2;","          jt.cam().x=endCamX;","          jt.cam().y=endCamY;   ","          jt.cam().w=this.camW;","          jt.cam().h=this.camH;        ","        }","      }","    }","  }","  ","  ","  var cObj={x:this.x,y:this.y,w:this.w,h:this.h}","  ","  cObj.y+=1;","  var ground=false;","  for(var i=0;i<walls.length;i++){","   \tif(jt.cRect(cObj,walls[i])){","      ground=true; ","      if(walls[i].tags.indexOf(\"Refill\")!=-1){","        if(this.fuel<this.fuelMax-1){jt.stopPlay(\"refill\")}","        this.fuel=this.fuelMax; ","      }else if(walls[i].name==\"End\"){","        jte.getObject(\"Time2\").end=true;","        jte.getObject(\"Time2\").attr.text=\"Final time: \"+jte.getObject(\"Time2\").sec;","        jt.getObject(\"Client\").clientObj.done=true;","      }","    }","  }","  cObj.y-=1;"," ","  ","  if(ground){","    this.fallingBuffer=0;","  }else{","    //falls","    this.fallingBuffer++;","    this.vY+=this.grav;","    if(this.vY>this.maxVY){this.vY=this.maxVY}","  }","  ","  //jump","  if(up && this.fallingBuffer<=this.maxJumpBuffer){","    jt.stopPlay(\"jump2\")","    this.vY=-this.jump;","    this.fallingBuffer=this.maxJumpBuffer+1;","    ","  }","  ","  if(jt.kPress(\"space\") && jt.debug()){","   \tthis.vY=-20; ","    this.vX+=20*this.dir;","  }","  ","  if(upCheck){","    if(this.fuel>=this.fuelUse){","      this.fuel-=this.fuelUse;","      if(this.vY>-this.fuelYMax){","        this.vY-=this.fuelForce;","        if(this.vY<-this.fuelYMax){","         \tthis.vY=-this.fuelYMax; ","        }","      }else{","        this.vY-=this.grav/2;","      }","      /*this.vY-=this.fuelForce;","      if(this.vY<-this.fuelYMax){","        if(this.vY<-this.fuelYMax-this.fuelForce){","          this.vY+=this.fuelForce;","          this.vY-=this.grav;","        }else{","          this.vY=-this.fuelYMax;","        }","      }*/","      if(jt.frames()%8==0 || this.fuelRow==0){","        jt.stopPlay(\"fire\");","      }","      //jt.volume(1);","      this.fuelRow++;","      ","      //add particles","      state=\"Fuel\";","      var part=this.createFuel(this.x,this.y,this.dir)","      jt.addPart(part);","    }else{","     \tthis.fuelRow-=2;  ","    }","  }else{","    this.fuelRow-=2; ","  }","  ","  this.fuel+=this.fuelRate;","  ","  var fuelManager=jt.getObject(\"FuelManager\");","  ","  if(drop && fuelManager.sendFuel<=0 && this.fuel>=this.fuelMax*fuelManager.fuelRatio){","    fuelManager.sendFuel=fuelManager.sendFuelMax;    ","    this.fuel-=this.fuelMax*fuelManager.fuelRatio;","    if(this.fuel<0){this.fuel=0}","    jt.stopPlay(\"refill\")","    //Add fuel","    fuelManager.addFuel(this.x+this.w/2-5,this.y,this.dir);","  }","  ","  this.fuel=jt.stay(this.fuel,0,this.fuelMax);","  ","  //update fuel","  jte.getObject(\"Fuelbar\").w=(this.fuel/this.fuelMax)*100;","  ","  ","  //apply horizontal speed","  var walking=false;","  var bDir=this.dir;","  var friction=this.frictionX;","  if(!ground){","   \tfriction=this.frictionXAir; ","  }","  if(this.vX>friction){this.vX-=friction}","  else if(this.vX<-friction){this.vX+=friction}  ","  else{this.vX=0;}    ","  ","  if(left){","    if(this.vX>-this.speedMax){","      this.vX-=this.speed;","      if(this.vX<-this.speedMax){","       \tthis.vX=-this.speedMax; ","      }","    }","    ","    this.dir=-1;","    walking=true;","  }","  if(right){","    if(this.vX<this.speedMax){","      this.vX+=this.speed;","      if(this.vX>this.speedMax){","       \tthis.vX=this.speedMax; ","      }","    }","    ","    this.dir=1;","    walking=true;","  }","  if(left && right){this.dir=bDir;walking=false;}","  ","  //killed?","  cObj.x+=this.vX;","  cObj.y+=this.vY;  ","  for(var i=0;i<kills.length;i++){","   \tif(jt.cRect(cObj,kills[i]) && !wall){","      \tthis.respawn();","     \t\tbreak;","    }","  }","  //Check bumpers","  var bumper=false;","  for(var i=0;i<bumpers.length;i++){","    var circle={x:bumpers[i].x,y:bumpers[i].y,d:bumpers[i].w,c:[0,0,255,0.5]};","    //jt.shape(circle)","   \tif(jt.cRect(cObj,bumpers[i]) && !bumper){","      var circle={x:bumpers[i].x,y:bumpers[i].y,d:bumpers[i].w};","      var mX=cObj.x+cObj.w/2;","      var mY=cObj.y+cObj.h/2;","      var mCX=circle.x+circle.d/2;","      var mCY=circle.y+circle.d/2;","      ","      if(jt.cRectCircle(cObj,circle)){","        jt.stopPlay(\"jump\")","        bumper=true;","        if(mX<mCX-circle.d/3){","          //left","          this.addX=-this.bumperX;","        }else if(mX>mCX+circle.d/3){","          //right","          this.addX=this.bumperX","        }else{","         \tthis.addY=-this.bumperY;","        }","        if(mY<mCY-circle.d/3){","          //up","          this.addY=-this.bumperY;","        }else if(mY>mCY+circle.d/3){","          //down","          this.addY=this.bumperY;","        }","      }","    }","  }","  ","  cObj.x-=this.vX;","  cObj.y-=this.vY; ","  ","  ","  if(this.addX!=0){","   \tthis.vX=this.addX ","    this.addX=0;","  }","  if(this.addY!=0){","   \tthis.vY=this.addY ","    this.addY=0;","  }","  ","  //horizontal collisions ","  cObj.x+=this.vX;","  var wall=false;","  for(var i=0;i<walls.length;i++){","   \tif(jt.cRect(cObj,walls[i]) && !wall){","     \twall=true;","      if(walls[i].tags.indexOf(\"Refill\")!=-1){","        if(this.fuel<this.fuelMax-1){jt.stopPlay(\"refill\")}","        this.fuel=this.fuelMax; ","      }","","      if(this.vX>=0){","        this.x=walls[i].x-this.w;","        this.vX=0;","      }else{","        this.x=walls[i].x+walls[i].w;","        this.vX=0;","      }","    }","  }","  cObj.x-=this.vX;","  ","  //stay in game","  var borderX=jte.getObject(\"BorderX2\");","  this.x+=this.vX;","  if(this.x<borderX.x){this.x=borderX.x;}","  if(this.x+this.w>borderX.w){this.x=borderX.w-this.w;}  ","  ","  cObj.x=this.x;","  ","  //vertical collisions","  cObj.y+=this.vY;","  wall=false;","  for(var i=0;i<walls.length;i++){","   \tif(jt.cRect(cObj,walls[i]) && !wall){","     \twall=true;","      if(walls[i].tags.indexOf(\"Refill\")!=-1){","        if(this.fuel<this.fuelMax-1){jt.stopPlay(\"refill\")}","        this.fuel=this.fuelMax; ","      }","","      if(this.vY>=0){","        this.y=walls[i].y-this.h;","        this.vY=0;","      }else{","        this.y=walls[i].y+walls[i].h;","        this.vY=0;","      }","      ","    }","  }","  cObj.y-=this.vY;","  ","  //stay in game","  var borderY=jte.getObject(\"BorderY2\");","  this.y+=this.vY;","  if(this.y<borderY.y){this.y=borderY.y;}","  if(this.y+this.h>jt.h()){this.y=jt.h()-this.h;}  ","  ","  ","  //time starting:","  if(!this.moved){","   \tif(left || right){","     \tjte.getObject(\"Time2\").start=true;","      this.moved=true;","    }","  }","  ","  //camera","  if(this.fuelRow>this.fuelRowMax){","   \tthis.fuelRow=this.fuelRowMax; ","  }","   if(this.fuelRow<0){","   \tthis.fuelRow=0; ","  }","  ","  var camW=jt.lerp(this.camSmooth,jt.cam().w,this.camW+(this.fuelRow*2));","  var camH=jt.lerp(this.camSmooth,jt.cam().h,this.camH+(this.fuelRow*2)*0.75);","  ","  //cam x","  var endCamX=this.x+(this.w/2)-camW/2;","  jt.cam().x=jt.lerp(this.camSmooth,jt.cam().x,endCamX);","  ","  //cam y","  var endCamY=this.y+(this.h/2)-camH/2;","  jt.cam().y=jt.lerp(this.camSmooth,jt.cam().y,endCamY);","","  jt.cam().w=camW;","  jt.cam().h=camH;  ","  ","  jt.camActive(true);","  ","\t//jte.draw(this);","  //show fuel on top","  var fuelPercent=(this.fuel/this.fuelMax);","  fuelPercent=jt.stay(fuelPercent,0,1);","  var border=2;","  var w=30;","  var h=10;  ","  jt.rect(this.x+this.w/2-w/2,this.y-this.h*0.75,w,h,\"black\")","  jt.rect(this.x+border+this.w/2-w/2,this.y-this.h*0.75+border,(w-border*2)*fuelPercent,h-border*2,\"red\")  ","  ","  if(this.dir==-1){","   \tjt.scale(-1,1,this.x,this.y,this.w,this.h) ","  }","  if(ground){","    if(walking){","      jt.anim(this.sprite+\"Walk\",this.x,this.y,this.w,this.h)","    }else{","      state=\"Idle\";","      jt.image(this.sprite+\"Idle\",this.x,this.y,this.w,this.h,)","    }","   \t","  }else{","    if(state!=\"Fuel\"){state=\"Air\";}","    //state=\"Air\";","    jt.image(this.sprite+\"Air\",this.x,this.y,this.w,this.h) ","  }","  ","  if(this.dir==-1){","   \tjt.scale(-1,1,this.x,this.y,this.w,this.h) ","  } ","  ","  ","  //Draw players","  var client=jt.getObject(\"Client\");","  ","  client.clientObj.x=this.x;  ","  client.clientObj.y=this.y;    ","  client.clientObj.dir=this.dir;      ","  client.clientObj.state=state;      ","  client.clientObj.sprite=this.sprite;    ","  client.clientObj.time=jte.getObject(\"Time2\").sec;      ","  client.clientObj.fuel=jt.round(this.fuel); ","  ","  var serverObjs=client.serverObjs;","  var keys=Object.keys(serverObjs);","  var len=Object.keys(serverObjs).length;","  var index=1;","","  jt.fontSize(14);","  jt.alpha(0.5);","  for (var i = 0; i < len; i++) {","    var other = serverObjs[keys[i]];","    ","    var inCam=false;","    other.w=this.w;","    other.h=this.h;    ","    var cam={x:jt.cam().x,y:jt.cam().y,w:jt.cam().w,h:jt.cam().h}","    if(jt.cRect(other,cam)){","      inCam=true;","    }","    ","    var dist=jt.round(jt.distP(this.x,this.y,other.x,other.y));","    ","    var otherInfo=dist+\"px\";","    if(inCam){","      otherInfo=other.fuel+\"%\";","    }","    if(other.done){","     \totherInfo=\"Done in \"+other.time+\"s\"; ","    }","    ","    var fuelRatio=jt.round(other.fuel/this.fuelMax,2);","    ","    ","    if(inCam){","      if(other.state==\"Fuel\"){","        other.state=\"Air\"; ","        var part=this.createFuel(other.x,other.y,other.dir)","        part.alpha=0.5;","        jt.addPart(part);","      }","","      if(other.dir==-1){","        jt.scale(-1,1,other.x,other.y,this.w,this.h) ","      }","      if(other.state==\"Walk\"){","        jt.anim(other.sprite+other.state,other.x,other.y,this.w,this.h)","      }else{","        jt.image(other.sprite+other.state,other.x,other.y,this.w,this.h)","      }","","","      if(other.dir==-1){","        jt.scale(-1,1,other.x,other.y,this.w,this.h) ","      }","","","","      jt.text(other.name,other.x+this.w/2,other.y-jt.fontSize()*2,\"black\",\"center\");","      jt.text(otherInfo,other.x+this.w/2,other.y-jt.fontSize(),\"black\",\"center\");   ","      jt.rect(other.x,other.y-jt.fontSize()-4,other.w*fuelRatio,2,\"red\");","      jt.rect(other.x+other.w,other.y-jt.fontSize()-4,1,2,\"black\");      ","    }else{","      var angle=jt.angleP(this.x,this.y,other.x,other.y);","      ","      var angleX=jt.angleX(angle);","      var angleY=jt.angleY(angle);","      ","      var posX=this.x+angleX*(jt.cam().w/2-25)","      var posY=this.y+angleY*(jt.cam().h/2-25)    ","      ","      jt.text(other.name,posX,posY-jt.fontSize(),\"black\",\"center\");","      jt.text(otherInfo,posX,posY,\"black\",\"center\"); ","      ","      jt.rect(posX-other.w/2,posY-4,other.w*fuelRatio,2,\"red\");","      jt.rect(posX+other.w/2,posY-4,1,2,\"black\"); ","      ","      jt.image(\"arrow\",posX-5,posY+jt.fontSize(),10,10,angle);","    }","  }","  jt.alpha(1);","  ","  jt.drawPart();","  "];jte.objects.push(obj);var obj=new JTEObject(0,10,800,70,[0,0,0],0,1,'{"text":"Jetpack Journey","size":48,"align":"center","font":"Consolas"}',true,'Start','[""]',false,-1,'Game2');/*Attributes and methods go here*/
+};obj.JTEcode=["/*You can put functions here*/","obj.grav=0.4;","obj.speed=0.5;","obj.speedMax=2;","obj.jump=6;","","obj.sprite=\"indiana\";","","obj.vX=0;","obj.vY=0;","obj.maxVY=30;","obj.maxGravVY=8;","obj.frictionX=0.25;","obj.frictionXAir=0.2;","obj.bumperX=10;","obj.bumperY=10;","","obj.addX=0;","obj.addY=0;","","obj.dir=1;","","obj.fallingBuffer=0;","obj.maxJumpBuffer=5;","","obj.fuel=0;","obj.fuelMax=100;","obj.fuelRate=0;","obj.fuelUse=0.9;","obj.fuelForce=1;","obj.fuelRow=0;","obj.fuelRowMax=30;","obj.fuelYMax=2;","","obj.camW=400;","obj.camH=300;","obj.camSmooth=0.25;","","obj.moved=false;","","obj.createFuel=function(x,y,dir){","  var part={};","  part.x=x+jt.random(this.w/4,this.w*3/4)-dir*this.w/4;","  part.y=y+this.h-4;","  part.w=5;","  part.h=5;","  part.wRate=-0.2;","  part.hRate=-0.2;      ","  part.vX=jt.random(-0.4,0.4,0.1);","  part.vY=jt.random(0.5,2,0.1)","  var rC=jt.random(0,155,1);","  part.c=[jt.random(200,255,1),rC,rC]","  part.cRate=[-4,rC/3,rC/2];","  return part;","}","","obj.mute=false;"];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","  jt.volume(0.2)","  //jt.stopPlay(\"descent\");","  ","\tthis.fuel=this.fuelMax;","  ","  jt.cam().w=this.camW;","  jt.cam().h=this.camH;","  ","  this.maxGravVY=this.jump+this.fuelForce;","  ","  jt.debug(false);"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t//key check","  jt.alpha(1);","  var state=\"Walk\";","  var left=jt.kCheck(\"left\");","  var right=jt.kCheck(\"right\");  ","  var up=jt.kPress(\"z\") || jt.pPress(\"a\");","  var upCheck=jt.kCheck(\"x\") || jt.pCheck(\"x\");","  ","  var drop=jt.kCheck(\"c\") || jt.pCheck(\"b\");","  ","  if(jt.kPress(\"m\")){","   \tthis.mute=!this.mute;","    jt.mute(this.mute);","  }","  ","  if(jt.pConnected(0)){","    var pStick=jt.pAxes(0);","","    if(pStick[0]<=-0.75){left=true;}","    if(pStick[0]>=0.75){right=true;}","  }","  ","  //if(jt.kPress(\"r\")){this.respawn()};","  ","  //ground check","  var walls=jte.getObjects([\"Wall\"],jte.getView());","  var checks=jte.getObjects([\"Check\"],jte.getView());  ","  var bumpers=jte.getObjects([\"Bumper\"],jte.getView());","  var kills=jte.getObjects([\"Kill\"],jte.getView());  ","  ","  ","  //checkpoints","  if(jt.debug()){","    for(var i=0;i<20;i++){","      var plus=false;","      if(i>=10){","         plus=true;","      }","      var pressed=false;","      if(plus){","        if(jt.kPress((i-10)) && jt.kCheck(\"shift\")){","          pressed=true; ","        }","      }else{","        if(jt.kPress(i) && !jt.kCheck(\"shift\")){","          pressed=true; ","        }","      }","      if(pressed){","        if(i<checks.length){","          this.x=checks[i].x;","          this.y=checks[i].y;        ","          this.vX=0;","          this.vY=0;     ","          var endCamX=this.x+(this.w/2)-this.camW/2;","          var endCamY=this.y+(this.h/2)-this.camH/2;","          jt.cam().x=endCamX;","          jt.cam().y=endCamY;   ","          jt.cam().w=this.camW;","          jt.cam().h=this.camH;        ","        }","      }","    }","  }","  ","  ","  var cObj={x:this.x,y:this.y,w:this.w,h:this.h}","  ","  cObj.y+=1;","  var ground=false;","  for(var i=0;i<walls.length;i++){","   \tif(jt.cRect(cObj,walls[i])){","      ground=true; ","      if(walls[i].tags.indexOf(\"Refill\")!=-1){","        if(this.fuel<this.fuelMax-1){jt.stopPlay(\"refill\")}","        this.fuel=this.fuelMax; ","      }else if(walls[i].name==\"End\"){","        jte.getObject(\"Time2\").end=true;","        jte.getObject(\"Time2\").attr.text=\"Final time: \"+jte.getObject(\"Time2\").sec;","        jt.getObject(\"Client\").clientObj.done=true;","      }","    }","  }","  cObj.y-=1;"," ","  ","  if(ground){","    this.fallingBuffer=0;","  }else{","    //falls","    this.fallingBuffer++;","    this.vY+=this.grav;","    if(this.vY>this.maxVY){this.vY=this.maxVY}","  }","  ","  //jump","  if(up && this.fallingBuffer<=this.maxJumpBuffer){","    jt.stopPlay(\"jump2\")","    this.vY=-this.jump;","    this.fallingBuffer=this.maxJumpBuffer+1;","    ","  }","  ","  if(jt.kPress(\"space\") && jt.debug()){","   \tthis.vY=-20; ","    this.vX+=20*this.dir;","  }","  ","  if(upCheck){","    if(this.fuel>=this.fuelUse){","      this.fuel-=this.fuelUse;","      if(this.vY>-this.fuelYMax){","        this.vY-=this.fuelForce;","        if(this.vY<-this.fuelYMax){","         \tthis.vY=-this.fuelYMax; ","        }","      }else{","        this.vY-=this.grav/2;","      }","      /*this.vY-=this.fuelForce;","      if(this.vY<-this.fuelYMax){","        if(this.vY<-this.fuelYMax-this.fuelForce){","          this.vY+=this.fuelForce;","          this.vY-=this.grav;","        }else{","          this.vY=-this.fuelYMax;","        }","      }*/","      if(jt.frames()%8==0 || this.fuelRow==0){","        jt.stopPlay(\"fire\");","      }","      //jt.volume(1);","      this.fuelRow++;","      ","      //add particles","      state=\"Fuel\";","      var part=this.createFuel(this.x,this.y,this.dir)","      jt.addPart(part);","    }else{","     \tthis.fuelRow-=2;  ","    }","  }else{","    this.fuelRow-=2; ","  }","  ","  this.fuel+=this.fuelRate;","  ","  var fuelManager=jt.getObject(\"FuelManager\");","  ","  if(drop && fuelManager.sendFuel<=0 && this.fuel>=this.fuelMax*fuelManager.fuelRatio){","    fuelManager.sendFuel=fuelManager.sendFuelMax;    ","    this.fuel-=this.fuelMax*fuelManager.fuelRatio;","    if(this.fuel<0){this.fuel=0}","    jt.stopPlay(\"refill\")","    //Add fuel","    fuelManager.addFuel(this.x+this.w/2-5,this.y,this.dir);","  }","  ","  this.fuel=jt.stay(this.fuel,0,this.fuelMax);","  ","  //update fuel","  jte.getObject(\"Fuelbar\").w=(this.fuel/this.fuelMax)*100;","  ","  ","  //apply horizontal speed","  var walking=false;","  var bDir=this.dir;","  var friction=this.frictionX;","  if(!ground){","   \tfriction=this.frictionXAir; ","  }","  if(this.vX>friction){this.vX-=friction}","  else if(this.vX<-friction){this.vX+=friction}  ","  else{this.vX=0;}    ","  ","  if(left){","    if(this.vX>-this.speedMax){","      this.vX-=this.speed;","      if(this.vX<-this.speedMax){","       \tthis.vX=-this.speedMax; ","      }","    }","    ","    this.dir=-1;","    walking=true;","  }","  if(right){","    if(this.vX<this.speedMax){","      this.vX+=this.speed;","      if(this.vX>this.speedMax){","       \tthis.vX=this.speedMax; ","      }","    }","    ","    this.dir=1;","    walking=true;","  }","  if(left && right){this.dir=bDir;walking=false;}","  ","  //killed?","  cObj.x+=this.vX;","  cObj.y+=this.vY;  ","  for(var i=0;i<kills.length;i++){","   \tif(jt.cRect(cObj,kills[i]) && !wall){","      \tthis.respawn();","     \t\tbreak;","    }","  }","  //Check bumpers","  var bumper=false;","  for(var i=0;i<bumpers.length;i++){","    var circle={x:bumpers[i].x,y:bumpers[i].y,d:bumpers[i].w,c:[0,0,255,0.5]};","    //jt.shape(circle)","   \tif(jt.cRect(cObj,bumpers[i]) && !bumper){","      var circle={x:bumpers[i].x,y:bumpers[i].y,d:bumpers[i].w};","      var mX=cObj.x+cObj.w/2;","      var mY=cObj.y+cObj.h/2;","      var mCX=circle.x+circle.d/2;","      var mCY=circle.y+circle.d/2;","      ","      if(jt.cRectCircle(cObj,circle)){","        jt.stopPlay(\"jump\")","        bumper=true;","        if(mX<mCX-circle.d/3){","          //left","          this.addX=-this.bumperX;","        }else if(mX>mCX+circle.d/3){","          //right","          this.addX=this.bumperX","        }else{","         \tthis.addY=-this.bumperY;","        }","        if(mY<mCY-circle.d/3){","          //up","          this.addY=-this.bumperY;","        }else if(mY>mCY+circle.d/3){","          //down","          this.addY=this.bumperY;","        }","      }","    }","  }","  ","  cObj.x-=this.vX;","  cObj.y-=this.vY; ","  ","  ","  if(this.addX!=0){","   \tthis.vX=this.addX ","    this.addX=0;","  }","  if(this.addY!=0){","   \tthis.vY=this.addY ","    this.addY=0;","  }","  ","  //horizontal collisions ","  cObj.x+=this.vX;","  var wall=false;","  for(var i=0;i<walls.length;i++){","   \tif(jt.cRect(cObj,walls[i]) && !wall){","     \twall=true;","      if(walls[i].tags.indexOf(\"Refill\")!=-1){","        if(this.fuel<this.fuelMax-1){jt.stopPlay(\"refill\")}","        this.fuel=this.fuelMax; ","      }","","      if(this.vX>=0){","        this.x=walls[i].x-this.w;","        this.vX=0;","      }else{","        this.x=walls[i].x+walls[i].w;","        this.vX=0;","      }","    }","  }","  cObj.x-=this.vX;","  ","  //stay in game","  var borderX=jte.getObject(\"BorderX2\");","  this.x+=this.vX;","  if(this.x<borderX.x){this.x=borderX.x;}","  if(this.x+this.w>borderX.w){this.x=borderX.w-this.w;}  ","  ","  cObj.x=this.x;","  ","  //vertical collisions","  cObj.y+=this.vY;","  wall=false;","  for(var i=0;i<walls.length;i++){","   \tif(jt.cRect(cObj,walls[i]) && !wall){","     \twall=true;","      if(walls[i].tags.indexOf(\"Refill\")!=-1){","        if(this.fuel<this.fuelMax-1){jt.stopPlay(\"refill\")}","        this.fuel=this.fuelMax; ","      }","","      if(this.vY>=0){","        this.y=walls[i].y-this.h;","        this.vY=0;","      }else{","        this.y=walls[i].y+walls[i].h;","        this.vY=0;","      }","      ","    }","  }","  cObj.y-=this.vY;","  ","  //stay in game","  var borderY=jte.getObject(\"BorderY2\");","  this.y+=this.vY;","  if(this.y<borderY.y){this.y=borderY.y;}","  if(this.y+this.h>jt.h()){this.y=jt.h()-this.h;}  ","  ","  ","  //time starting:","  if(!this.moved){","   \tif(left || right){","     \tjte.getObject(\"Time2\").start=true;","      this.moved=true;","    }","  }","  ","  //camera","  if(this.fuelRow>this.fuelRowMax){","   \tthis.fuelRow=this.fuelRowMax; ","  }","   if(this.fuelRow<0){","   \tthis.fuelRow=0; ","  }","  ","  var camW=jt.lerp(this.camSmooth,jt.cam().w,this.camW+(this.fuelRow*2));","  var camH=jt.lerp(this.camSmooth,jt.cam().h,this.camH+(this.fuelRow*2)*0.75);","  ","  //cam x","  var endCamX=this.x+(this.w/2)-camW/2;","  jt.cam().x=jt.lerp(this.camSmooth,jt.cam().x,endCamX);","  ","  //cam y","  var endCamY=this.y+(this.h/2)-camH/2;","  jt.cam().y=jt.lerp(this.camSmooth,jt.cam().y,endCamY);","","  jt.cam().w=camW;","  jt.cam().h=camH;  ","  ","  jt.camActive(true);","  ","\t//jte.draw(this);","  //show fuel on top","  var fuelPercent=(this.fuel/this.fuelMax);","  fuelPercent=jt.stay(fuelPercent,0,1);","  var border=2;","  var w=30;","  var h=10;  ","  jt.rect(this.x+this.w/2-w/2,this.y-this.h*0.75,w,h,\"black\")","  jt.rect(this.x+border+this.w/2-w/2,this.y-this.h*0.75+border,(w-border*2)*fuelPercent,h-border*2,\"red\")  ","  ","  if(this.dir==-1){","   \tjt.scale(-1,1,this.x,this.y,this.w,this.h) ","  }","  if(ground){","    if(walking){","      jt.anim(this.sprite+\"Walk\",this.x,this.y,this.w,this.h)","    }else{","      state=\"Idle\";","      jt.image(this.sprite+\"Idle\",this.x,this.y,this.w,this.h,)","    }","   \t","  }else{","    if(state!=\"Fuel\"){state=\"Air\";}","    //state=\"Air\";","    jt.image(this.sprite+\"Air\",this.x,this.y,this.w,this.h) ","  }","  ","  if(this.dir==-1){","   \tjt.scale(-1,1,this.x,this.y,this.w,this.h) ","  } ","  ","  ","  //Draw players","  var client=jt.getObject(\"Client\");","  ","  client.clientObj.x=this.x;  ","  client.clientObj.y=this.y;    ","  client.clientObj.dir=this.dir;      ","  client.clientObj.state=state;      ","  client.clientObj.sprite=this.sprite;    ","  client.clientObj.time=jte.getObject(\"Time2\").sec;      ","  client.clientObj.fuel=jt.round(this.fuel); ","  ","  var serverObjs=client.serverObjs;","  var keys=Object.keys(serverObjs);","  var len=Object.keys(serverObjs).length;","  var index=1;","","  jt.fontSize(14);","  jt.alpha(0.5);","  for (var i = 0; i < len; i++) {","    var other = serverObjs[keys[i]];","    ","    var inCam=false;","    other.w=this.w;","    other.h=this.h;    ","    var cam={x:jt.cam().x,y:jt.cam().y,w:jt.cam().w,h:jt.cam().h}","    if(jt.cRect(other,cam)){","      inCam=true;","    }","    ","    var dist=jt.round(jt.distP(this.x,this.y,other.x,other.y));","    ","    var otherInfo=dist+\"px\";","    if(inCam){","      otherInfo=other.fuel+\"%\";","    }","    if(other.done){","     \totherInfo=\"Done in \"+other.time+\"s\"; ","    }","    ","    var fuelRatio=jt.round(other.fuel/this.fuelMax,2);","    ","    ","    if(inCam){","      if(other.state==\"Fuel\"){","        other.state=\"Air\"; ","        var part=this.createFuel(other.x,other.y,other.dir)","        part.alpha=0.5;","        jt.addPart(part);","      }","","      if(other.dir==-1){","        jt.scale(-1,1,other.x,other.y,this.w,this.h) ","      }","      if(other.state==\"Walk\"){","        jt.anim(other.sprite+other.state,other.x,other.y,this.w,this.h)","      }else{","        jt.image(other.sprite+other.state,other.x,other.y,this.w,this.h)","      }","","","      if(other.dir==-1){","        jt.scale(-1,1,other.x,other.y,this.w,this.h) ","      }","","","","      jt.text(other.name,other.x+this.w/2,other.y-jt.fontSize()*2,\"black\",\"center\");","      jt.text(otherInfo,other.x+this.w/2,other.y-jt.fontSize(),\"black\",\"center\");   ","      jt.rect(other.x,other.y-jt.fontSize()-4,other.w*fuelRatio,2,\"red\");","      jt.rect(other.x+other.w,other.y-jt.fontSize()-4,1,2,\"black\");      ","    }else{","      var angle=jt.angleP(this.x,this.y,other.x,other.y);","      ","      var angleX=jt.angleX(angle);","      var angleY=jt.angleY(angle);","      ","      var posX=this.x+angleX*(jt.cam().w/2-25)","      var posY=this.y+angleY*(jt.cam().h/2-25)    ","      ","      jt.text(other.name,posX,posY-jt.fontSize(),\"black\",\"center\");","      jt.text(otherInfo,posX,posY,\"black\",\"center\"); ","      ","      jt.rect(posX-other.w/2,posY-4,other.w*fuelRatio,2,\"red\");","      jt.rect(posX+other.w/2,posY-4,1,2,\"black\"); ","      ","      jt.image(\"arrow\",posX-5,posY+jt.fontSize(),10,10,angle);","    }","  }","  jt.alpha(1);","  ","  jt.drawPart();","  "];jte.objects.push(obj);var obj=new JTEObject(0,10,800,70,[0,0,0],0,1,'{"text":"Jetpack Journey","size":48,"align":"center","font":"Consolas"}',true,'Start','[""]',false,-1,'Game2');/*Attributes and methods go here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -4069,7 +4020,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
     jt.getObject("Client").clientObj.name="Guest "+num;    
   });
   
-  jt.mute(true);  
+  //jt.mute(true);  
   
   this.pause=false;
   
@@ -4112,7 +4063,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
   }
   
 	//jt.drawObject(this);
-};obj.JTEcode=["/*Attributes and methods go here*/","obj.socketId=undefined;","","obj.fps=1000/30;","","obj.clientObj={name:\"\",sprite:\"\",x:0,y:0,dir:1,fuel:0,time:0,state:\"\",done:false,playing:false,fuels:[]};","obj.serverObjs={};","","obj.lobbies=[];","","obj.updated=false;","","obj.sent=false;","obj.sent2=false;","obj.inserted=false;","","obj.highscores=[];","","obj.updateCooldown=0;","obj.updateCooldownMax=2;","","obj.started=undefined;","obj.playing=undefined;","obj.inviteSent=undefined;","obj.inviteReceived=undefined;","","obj.playings=[];","obj.withs=[];","obj.received=[];","obj.receivedMax=[];","","obj.isHost=false;","obj.host=undefined;","","obj.index=0;","","obj.socket = {"," \ton:function(){","    ","  },","  emit:function(){","    ","  }","}","","obj.connected=false;",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\tif(window[\"io\"]!==undefined){","    console.log(\"io exists\");","    this.socket=io();","  }","  ","  this.socket.on(\"connected\",function(id,num){","    jt.getObject(\"Client\").connected=true;","    jt.getObject(\"Client\").socketId=id;    ","    jt.getObject(\"Client\").clientObj.name=\"Guest \"+num;    ","  });","  ","  jt.mute(true);  ","  ","  this.pause=false;","  ","  this.socket.on(\"getData\",function(senderId,serverObj){","    jt.getObject(\"Client\").serverObjs[senderId]=serverObj;","    jt.getObject(\"Client\").updated=true;","    jt.getObject(\"Client\").gotAData=true;","  })","  ","  this.socket.on(\"chat message\",function(msg,color){","    jt.getObject(\"Chat\").messages.push(msg);","    jt.getObject(\"Chat\").messagesC.push(color);    ","  })","  ","  this.socket.on(\"gotFuel\",function(obj){","    var fuels=jt.getObject(\"Client\").clientObj.fuels;","    for(var i=0;i<fuels.length;i++){","     \tif(jt.cRect(fuels[i],obj)){","       \tjt.getObject(\"Client\").clientObj.fuels.splice(i,1);","        i--;","        continue;","      }","    }","  })"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","  this.socket.on(\"disconnected\",function(senderId){","    ","    delete jt.getObject(\"Client\").serverObjs[senderId];","  })","\t","  if(this.updateCooldown<=0){","    ","    if(this.connected){","      this.updateCooldown=this.updateCooldownMax;","      this.clientObj.playing=true;","      this.socket.emit(\"update\",this.clientObj);","    }","  }else{","   \tthis.updateCooldown--; ","  }","  ","\t//jt.drawObject(this);"];jte.objects.push(obj);var obj=new JTEObject(20,230,390,40,[0,0,0],0,1,'{"text":"Current username:","size":24,"align":"center","font":"Consolas"}',true,'Start','[""]',false,-1,'Name');/*Attributes and methods go here*/
+};obj.JTEcode=["/*Attributes and methods go here*/","obj.socketId=undefined;","","obj.fps=1000/30;","","obj.clientObj={name:\"\",sprite:\"\",x:0,y:0,dir:1,fuel:0,time:0,state:\"\",done:false,playing:false,fuels:[]};","obj.serverObjs={};","","obj.lobbies=[];","","obj.updated=false;","","obj.sent=false;","obj.sent2=false;","obj.inserted=false;","","obj.highscores=[];","","obj.updateCooldown=0;","obj.updateCooldownMax=2;","","obj.started=undefined;","obj.playing=undefined;","obj.inviteSent=undefined;","obj.inviteReceived=undefined;","","obj.playings=[];","obj.withs=[];","obj.received=[];","obj.receivedMax=[];","","obj.isHost=false;","obj.host=undefined;","","obj.index=0;","","obj.socket = {"," \ton:function(){","    ","  },","  emit:function(){","    ","  }","}","","obj.connected=false;",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\tif(window[\"io\"]!==undefined){","    console.log(\"io exists\");","    this.socket=io();","  }","  ","  this.socket.on(\"connected\",function(id,num){","    jt.getObject(\"Client\").connected=true;","    jt.getObject(\"Client\").socketId=id;    ","    jt.getObject(\"Client\").clientObj.name=\"Guest \"+num;    ","  });","  ","  //jt.mute(true);  ","  ","  this.pause=false;","  ","  this.socket.on(\"getData\",function(senderId,serverObj){","    jt.getObject(\"Client\").serverObjs[senderId]=serverObj;","    jt.getObject(\"Client\").updated=true;","    jt.getObject(\"Client\").gotAData=true;","  })","  ","  this.socket.on(\"chat message\",function(msg,color){","    jt.getObject(\"Chat\").messages.push(msg);","    jt.getObject(\"Chat\").messagesC.push(color);    ","  })","  ","  this.socket.on(\"gotFuel\",function(obj){","    var fuels=jt.getObject(\"Client\").clientObj.fuels;","    for(var i=0;i<fuels.length;i++){","     \tif(jt.cRect(fuels[i],obj)){","       \tjt.getObject(\"Client\").clientObj.fuels.splice(i,1);","        i--;","        continue;","      }","    }","  })"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","  this.socket.on(\"disconnected\",function(senderId){","    ","    delete jt.getObject(\"Client\").serverObjs[senderId];","  })","\t","  if(this.updateCooldown<=0){","    ","    if(this.connected){","      this.updateCooldown=this.updateCooldownMax;","      this.clientObj.playing=true;","      this.socket.emit(\"update\",this.clientObj);","    }","  }else{","   \tthis.updateCooldown--; ","  }","  ","\t//jt.drawObject(this);"];jte.objects.push(obj);var obj=new JTEObject(20,230,390,40,[0,0,0],0,1,'{"text":"Current username:","size":24,"align":"center","font":"Consolas"}',true,'Start','[""]',false,-1,'Name');/*Attributes and methods go here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -4284,7 +4235,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jte.draw(this);
-};obj.JTEcode=["/*Attributes and methods go here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(720,0,80,30,[0,0,0],0,1,'{"text":"v1.01","size":23,"font":"Consolas","align":"right"}',true,'Start','[""]',false,-1,'Obj16');/*Attributes and methods go here*/
+};obj.JTEcode=["/*Attributes and methods go here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjte.draw(this);"];jte.objects.push(obj);var obj=new JTEObject(720,0,80,30,[0,0,0],0,1,'{"text":"v1.03","size":23,"font":"Consolas","align":"right"}',true,'Start','[""]',false,-1,'Obj16');/*Attributes and methods go here*/
 
 ;
 obj.setup=function(){	/*Setup runs once when the game starts*/
@@ -4356,7 +4307,7 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 };obj.update=function(){	/*Update runs at the fps specified*/
 	
 	jt.drawObject(this);
-};obj.JTEcode=["/*Attributes and methods go here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjt.drawObject(this);"];jte.objects.push(obj);var obj=new JTEObject(960,-100,310,90,[255,0,0],0,1,'{"text":"Keyboard","size":64,"font":"Consolas","align":"left"}',true,'Start','[""]',false,153,'keyboard');/*Attributes and methods go here*/
+};obj.JTEcode=["/*Attributes and methods go here*/",""];obj.JTEsetup=["\t/*Setup runs once when the game starts*/","\t"];obj.JTEupdate=["\t/*Update runs at the fps specified*/","\t","\tjt.drawObject(this);"];jte.objects.push(obj);var obj=new JTEObject(960,-100,310,90,[255,0,0],0,1,'{"text":"Keyboard","size":64,"font":"Consolas","align":"left"}',true,'Start','[""]',false,154,'keyboard');/*Attributes and methods go here*/
 /* HOW TO USE
 
 Link this script to the html
@@ -5300,8 +5251,6 @@ obj.setup=function(){	/*Setup runs once when the game starts*/
 			name:"arrow"}]);loadAssets([{type:"image",
 			path:jte.path+"assets/bumper.png",
 			name:"bumper"}]);loadAssets([{type:"image",
-			path:jte.path+"assets/bumperOld.png",
-			name:"bumperOld"}]);loadAssets([{type:"image",
 			path:jte.path+"assets/countAir.png",
 			name:"countAir"}]);loadAssets([{type:"image",
 			path:jte.path+"assets/countIdle.png",
